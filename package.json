@@ -1,6 +1,6 @@
 {
   "name": "digabi-passport-saml",
-  "version": "0.35.1-digabi.1",
+  "version": "0.35.2",
   "license": "MIT",
   "keywords": [
     "saml",
