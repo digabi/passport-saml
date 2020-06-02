@@ -1,5 +1,5 @@
 {
-  "name": "digabi-passport-saml",
+  "name": "@digabi/passport-saml",
   "version": "0.35.2",
   "license": "MIT",
   "keywords": [
